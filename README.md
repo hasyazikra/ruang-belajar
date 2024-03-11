@@ -1,2 +1,6 @@
-# ruang-belajar
-hasya zikra alfrena - BE8719000
+# Ruang Belajar
+
+Contributor:
+
+- Hasya Zikra Alfrena - BE8719000
+- Bob
